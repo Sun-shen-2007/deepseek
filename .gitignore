@@ -1,0 +1,11 @@
+# Playwright MCP browser artifacts (snapshots, screenshots, console/network logs)
+.playwright-mcp/
+
+# dsh-code-index cache
+.dsh-code-index/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
